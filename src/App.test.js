@@ -7,6 +7,6 @@ it("renders without crashing", () => {
   ReactDOM.render(<App />, div);
 });
 
-it("does impossible maths", () => {
-  expect(1).toBe(2);
-});
+// it("does impossible maths", () => {
+//   expect(1).toBe(2);
+// });
